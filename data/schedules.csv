@@ -1,0 +1,5 @@
+train_id,train_name,priority,station_id,scheduled_arrival_time,duration_minutes
+12301,Rajdhani Express,1,2,60,5
+12301,Rajdhani Express,1,3,180,10
+54321,Freight Train,2,3,175,20
+54321,Freight Train,2,4,300,20

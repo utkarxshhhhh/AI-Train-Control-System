@@ -1,0 +1,7 @@
+fastapi
+ortools
+simpy
+streamlit
+pandas
+sqlalchemy
+uvicorn
